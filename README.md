@@ -22,6 +22,6 @@ Installing and using HyperLedger Fabric
 ![saved car](https://user-images.githubusercontent.com/78845735/149855522-4ec47555-e3fa-46d8-a309-69ae2146dde4.png)
 
         Susidurta su daug sunkumų, ypač naudojantis Windows 10 operacinę sistemą.
-Nežinau ar užduotį buvo galima atlikti naudojantis Windows operacine sistema aplamai, kadangi bandant ja atlikti su windowsais, kiekviena komanda turėjo daugybę problemų, pradedant tuo, kad aplamai nebuvo galima net panaudoti " ./startFabric.sh javascript " komandos, nes nebuvo generuojama daugelis reikalingų failų, kad ši programa būtų ištestuota.
-        Tačiau pasiskolinus kompiuterį su "linuxais" programa vykdėsi ganėtinai sklandžiai. Turėjau problemų su dockeriu, tačiau jos nebuvo neišsprendžiamos. Galbūt pirmu bandymų neteisingai sekiau skaidres ir kažką sugadinau, tad teko per naujo įsirašyti hyperledger fabric failus.
+        Nežinau ar užduotį buvo galima atlikti naudojantis Windows operacine sistema aplamai, kadangi bandant ja atlikti su windowsais, kiekviena komanda turėjo daugybę                 problemų, pradedant tuo, kad aplamai nebuvo galima net panaudoti " ./startFabric.sh javascript " komandos, nes nebuvo generuojama daugelis reikalingų failų, kad ši             programa būtų ištestuota.
+        Tačiau pasiskolinus kompiuterį su "linuxais" programa vykdėsi ganėtinai sklandžiai. Turėjau problemų su dockeriu, tačiau jos nebuvo neišsprendžiamos. Galbūt pirmu               bandymų neteisingai sekiau skaidres ir kažką sugadinau, tad teko per naujo įsirašyti hyperledger fabric failus.
         Tai padarius, ir atidžiai sekant nurodymus, užduotis buvo atlikta.
